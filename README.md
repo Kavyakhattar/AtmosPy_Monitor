@@ -11,7 +11,7 @@ AtmosPy provides real-time monitoring of temperature, pressure, and altitude usi
 - BMP180/BMP280 sensors (for temperature, pressure, and altitude)
 
 ## Setup Instructions
-Refer to the [setup guide](docs/setup_guide.md) to get started with hardware connections and Arduino IoT Cloud integration.
+Refer to the [setup guide](setup_guide.md) to get started with hardware connections and Arduino IoT Cloud integration.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
